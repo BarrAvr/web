@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <img src={myProfilePhoto} alt="My Profile Photo" />
+        <img src={myProfilePhoto} alt="My Profile Photo" className="my-profile-photo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
