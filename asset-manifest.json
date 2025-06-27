@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.9f819591.css",
-    "main.js": "/web/static/js/main.0e4283ec.js",
+    "main.css": "/web/static/css/main.0570c5dc.css",
+    "main.js": "/web/static/js/main.b3048391.js",
     "static/js/584.75111a7a.chunk.js": "/web/static/js/584.75111a7a.chunk.js",
+    "static/media/goldbridge_home.jpg": "/web/static/media/goldbridge_home.dc05819d3fafbd85fc2f.jpg",
     "static/media/myProfilePhoto.jpg": "/web/static/media/myProfilePhoto.c3c56f1a4c945bf5d8b3.jpg",
     "service-worker.js": "/web/service-worker.js",
     "static/media/logo.svg": "/web/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
     "index.html": "/web/index.html",
-    "main.9f819591.css.map": "/web/static/css/main.9f819591.css.map",
-    "main.0e4283ec.js.map": "/web/static/js/main.0e4283ec.js.map",
+    "main.0570c5dc.css.map": "/web/static/css/main.0570c5dc.css.map",
+    "main.b3048391.js.map": "/web/static/js/main.b3048391.js.map",
     "584.75111a7a.chunk.js.map": "/web/static/js/584.75111a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f819591.css",
-    "static/js/main.0e4283ec.js"
+    "static/css/main.0570c5dc.css",
+    "static/js/main.b3048391.js"
   ]
 }
